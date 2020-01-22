@@ -13,6 +13,7 @@ labels:
 summary: Final project for ICS111 by me and my partner Manalu Nakanishi.  A primitive Bomberman style game developed using the EZ library.
 ---
 
+<img class="ui medium right floated rounded image" src="../images/bomber2.png">
 
 The final project for ICS111 was a free form coding challenge where students were allowed to choose any game to make.  My partner and I were given about a week to create this game and present it to the class.  The project required the use of a Java graphics library called EZ.  This allowed us to use some powerful graphical functions without much in-depth graphical coding knowledge.  We chose to remake the game "Bomberman" because of the interesting mechanics in the gameplay.  We were not taught many of the techniques required to re-create Bomberman so this was a test of how much we could learn on our own.
 
