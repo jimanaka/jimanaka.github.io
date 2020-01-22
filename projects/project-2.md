@@ -2,16 +2,14 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Breaking 4x400m Relay Record
+permalink: projects/breaking-4x400m-relay-record
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-04-25
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - athletics
+  - track
+summary: Breaking the Kaiser High School 4x400m relay record with my team. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
