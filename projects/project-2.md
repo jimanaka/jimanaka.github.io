@@ -20,5 +20,5 @@ On my team, I was the starter, the first leg in the race.  I was tasked with get
 
 From this experience I learned the importance of leadership and innovation.  As I was one of the two upperclassmen on the team, I had to make a decision that could have hurt our time by trying something very different than what other teams were doing.  After all of our expirimenting it turned out that this odd strategy was what it took to push us past that last hurdle.
  
-## Race (starts at 3L06:15)
+## Race (we are the team in blue and it starts at 3:06:15)
 <div class="ui embed" data-source="youtube" data-id="3rKQePZGEyE?t=11175"></div>
