@@ -72,14 +72,15 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
-        "ICS111",
-        "ICS141",
-        "ICS222",
-        "ICS241",
-        "ICS211",
-        "ICS311",
-        "ICS314",
-        "ICS355"
+        "Intro to Computer Science I",
+        "Discrete Math for CS I",
+        "Basic Concept of Comp. Sci",
+        "Discrete Math for CS II",
+        "Intro to Computer Science II",
+        "Algorithms",
+        "Software Engineering I",
+        "Security and Trust I",
+        "Scripting in C/C++"
       ]
     }
   ],
