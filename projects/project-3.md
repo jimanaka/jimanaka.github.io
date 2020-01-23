@@ -11,9 +11,11 @@ labels:
   - Piano
 summary: Performed a piano accompaniment for an ban playing the song "Carmina Burana".
 ---
-The OBDA Select Band is an organization that students audition in to to perform music at a high level.  In 2017, my friend and I were asked to play the piano accompaniment for the High School Select Band for the song "Carmina Burana".  Carmina Burana is an almost 30 minute song with 25 movements.
+The OBDA Select Band is an organization that students audition in to to perform music at a high level.  In 2017, my friend and I were asked by the Select Band to play the piano accompaniment for the "Carmina Burana".  Carmina Burana is an almost 30 minute song with 25 movements.
 
-The accompaniment was split into two parts.  My role was to perform the bass part (part 2).  During the performance I was in charge of keeping my partner in rythm and driving the dynamic of the song.
+The accompaniment was split into two parts.  My role was to perform the bass part (part 2).  During the performance I was in charge of keeping my partner in rythm and driving the dynamics of our part.  As my friend and I were late additions to the group, we had to adjust quickly while staying focused during the 8 hours rehersals.
+
+From this experience I learned how to work well with a group and how to recognize and solve problems on the spot.  Playing in a group is far different than playing by yourself.  You have to be sure you are following the groups tempo, dynamics, and intonation instead of playing however you feel.  Music is dynamic and every performance will be different than the last.  This means each time we rehearsed or performed, different problems occurred.   I had to learn how to resolve these problems between my parter and I quickly and efficiently as to not throw off the people around us.
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
