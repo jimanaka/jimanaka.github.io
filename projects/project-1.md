@@ -22,6 +22,6 @@ For this project, I was responsible for researching what techniques were needed 
 From this expirience I learned a lot of new skills such as creating assets (pixel art), how to lead the design and direction of a project, and how to utilize resources to learn new skills to solve unexpected problems.  Even though the assets and animations were not perfect or if my implementation of threads was atrocious, I believe I still learned a great deal by simply struggling to put together a working game. 
 
 You can watch a demonstration of the game here: [Demo Link](https://www.youtube.com/watch?v=Az70m4X7Eu8).
-
-
+## Demo Video Used for Project Submission:
+<div class="ui embed" data-source="youtube" data-id="Az70m4X7Eu8"></div>
 
