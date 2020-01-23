@@ -21,6 +21,6 @@ From this experience I learned how to work well with a group and how to recogniz
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 
-
-Performance: (https://www.youtube.com/watch?v=PtKmuDkIEsI).
+## Performance
+<div class="ui embed" data-source="youtube" data-id="PtKmuDkIEsI"></div>
 
