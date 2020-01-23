@@ -18,9 +18,6 @@ The accompaniment was split into two parts.  My role was to perform the bass par
 
 From this experience I learned how to work well with a group and how to recognize and solve problems on the spot.  Playing in a group is far different than playing by yourself.  You have to be sure you are following the groups tempo, dynamics, and intonation instead of playing however you feel.  Music is dynamic and every performance will be different than the last.  This means each time we rehearsed or performed, different problems occurred.   I had to learn how to resolve these problems between my parter and I quickly and efficiently as to not throw off the people around us.
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
-
-
 ## Performance
 <div class="ui embed" data-source="youtube" data-id="PtKmuDkIEsI"></div>
 
