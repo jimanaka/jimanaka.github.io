@@ -21,5 +21,5 @@ From this experience I learned how to work well with a group and how to recogniz
 
 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Performance: (https://www.youtube.com/watch?v=PtKmuDkIEsI).
 
