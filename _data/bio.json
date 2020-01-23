@@ -116,6 +116,12 @@
       "date": "2018-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to students who achieve a certain score on the SAT exam."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2018-Present",
+      "awarder": "University of Hawaii at Manoa ICS department",
+      "summary": "Awarded to to undergraduate students with a semester GPA of 3.5 or higher"
     }
   ],
   "references": [
