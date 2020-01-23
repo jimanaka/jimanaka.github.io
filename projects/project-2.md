@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/track2_resized1.png
 title: Breaking 4x400m Relay Record
 permalink: projects/breaking-4x400m-relay-record
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: Breaking the Kaiser High School 4x400m relay record with my team. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="/images/track1.png">
 
 The 4x400m is a relay race conisting of 4 legs.  Each leg runs 1 lap around the track (400m) to complete the race.  In 2017, I was on a relay team and our goal was to break the Kaiser High School 4x400m relay record.  The time to beat was 3:30.31 set just the year before in 2016.  We gradually improved our time throughout the track season.  We tried different running strategies such as, running orders, baton hand-off techniques, and many others.  All the effort was worth it when we ran a 3:25.89 at the Punahou Relays meet, breaking the record by a whole 5 seconds.
 
