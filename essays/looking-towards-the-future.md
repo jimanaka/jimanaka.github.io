@@ -10,10 +10,6 @@ labels:
   - ICS314
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="/images/gameboy1.jpg">
-  <img class="ui image" src="/images/gameboy2.jpg">
-</div>
 
 # Looking Towards the Future
 
