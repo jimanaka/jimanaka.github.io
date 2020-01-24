@@ -1,6 +1,7 @@
 ---
 layout: essay
-title:
+type: essay
+title: Looking Towards the Future
 date: 2020-1-23
 labels:
   - software Engineering
