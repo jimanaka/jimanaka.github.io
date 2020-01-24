@@ -10,7 +10,7 @@ labels:
   - ICS314
 ---
 
-<div class="ui small rounded images">
+<div class="ui rounded images">
   <img class="ui image" src="/images/gameboy1.jpg">
   <img class="ui image" src="/images/gameboy2.jpg">
 </div>
