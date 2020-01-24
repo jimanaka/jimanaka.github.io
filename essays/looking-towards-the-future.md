@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Looking Towards the Future
+# All dates must be YYYY-MM-DD format!
 date: 2020-1-23
 labels:
   - software Engineering
