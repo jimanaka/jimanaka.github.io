@@ -14,6 +14,8 @@ labels:
   <img class="ui image" src="/images/gameboy1.jpg">
   <img class="ui image" src="/images/gameboy2.jpg">
 </div>
+
+
 # Looking Towards the Future
 
 I remember my first experience being curious about software.  It was almost 15 years ago when I got my first gaming console, the Nintendo Gameboy Advanced.  I had no idea what it was or how it worked, but from the moment I started playing I was hooked.  I would spend hours at a time just sitting down to play.  I was very young so apart from the initial wonder, nothing more ever came out of it.  As I grew older, so did my curiosity.  I started to wonder how it was possible to create these advanced devices that were becoming more and more common place.  Flash forward to my senior year in high school, the time to think about what career path I wanted to take was getting closer and closer.  I remembered all the time that I spent on my computer, on the web, and on my phone, and decided that I would really love to create things that others could use and enjoy.  In the end, I started to get interested in software development/design and cyber security.  Luckily, these are the two topics and studying now!
