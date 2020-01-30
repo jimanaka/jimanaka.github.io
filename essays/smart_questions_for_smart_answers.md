@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: temp
+title: Smart Questions for Smart Answers
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-29
 labels:
