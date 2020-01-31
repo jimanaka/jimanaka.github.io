@@ -12,7 +12,7 @@ labels:
   - Asking Questions
 ---
 
-<img class="ui medium image" src="/images/Smart-people-ask-questions.jpg">
+<img class="ui medium right floated image" src="/images/Smart-people-ask-questions.jpg">
 We live in a world where almost all practical knowledge is at our fingertips.  If the answer you seek is not already online, then there is probably someone out there that can answer it for you.  Because of this, there really is only one question left to ask: How do I extract information I need from others?  The answer to this, of course, is to ask better and smarter questions.  Smart questions are one of the best ways to gather information online from others.  They help communicate your goals clearly while also keeping people who are answering engaged and interested.  
 
 For software engineers, this technique is very important.  Software engineering has developed into an enormous community driven subject where anyone can learn or teach others.  Due to forums and websites like Stack Overflow, experts have never been so accessible.  To receive proper help, it is recommended to ask smart questions for efficiently communication your goals/problems and for the convenience of others.
