@@ -25,3 +25,4 @@ I gained confidence in the fact that I wasn't stuck making 1990's-esque web page
 
 ## Turning Pain into Pages
 Though frameworks are useful, they can be pretty overwhelming when first learning.  The only way to overcome this is experience and hard work.  Like a wise person once said, "What you put in is what you get out"; nothing could be truer with web frameworks.  Though, at first, all you can think about is the never-ending list of classes and variations, but once you take the time to familiarize yourself with them, front-end development becomes a cinch.  If you ask me, the thought and time you put into learning these frameworks is definitely worth it because it directly translates into skill, understanding, and your success in developing webpages.  In this modern age of web-development, frameworks are truly one of the great ways to flourish.
+a
