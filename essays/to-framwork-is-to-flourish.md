@@ -18,7 +18,7 @@ HTML and CSS... oh my.  Until now I've never touched it, barely seen it, and did
 In computer science, if you have a problem, there is a good chance someone already solved it.  This is exactly the case with web frameworks.  Semantic UI in particular, tries to lessen the amount of raw code you have to write by trying to translate natural language into pre-made HTML classes.  Once I learned about this, a whole universe of front-end web development opened up to me.  So far, my most notable accomplishment is re-creating part of the University of Hawaii Hamilton Library webpage.
 Here is the original page on the left and my remake on the right:
 <img class="ui medium floated left image" src="/images/website-original.jpg">
-<img class="ui mediumn floated right image" src="/images/website-remake.jpg">
+<img class="ui small floated right image" src="/images/website-remake.jpg">
 I gained confidence in the fact that I wasn't stuck making 1990's-esque web pages from this one successful project.  Even though I felt that I could somewhat remake the front-ends of websites, Learning the framework itself was not an easy task.
 
 ## Turning Pain into Pages
