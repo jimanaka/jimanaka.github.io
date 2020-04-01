@@ -8,6 +8,7 @@ labels:
   - Meteor
   - final project
 ---
+<h1>Project: Manoa Smart Exchange</h1>
 <h2>Overview</h2>
 <p>
 <i>The problem:</i> Many UH students need help with studying and homework problems, but they may not be able to go to office hours or may not have many people to ask for help.  There exists sites such as Stack Exchange or Stack Overflow, but some students want help from others who have taken the exact same class they are in.  Tools such as Laulima forums, Piazza, etc, are only limited to your class and are only available if the professor chooses to use them.
