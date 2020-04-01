@@ -52,14 +52,17 @@
         "C",
         "C++",
         "Java",
-        "C#"
+        "C#",
+        "Python",
+        "JavaScript",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows10"
+        "Windows10",
+        "Kali Linux",
       ]
     }
   ],
