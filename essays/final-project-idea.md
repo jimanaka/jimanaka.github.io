@@ -10,10 +10,10 @@ labels:
 ---
 <h2>Overview</h2>
 <p>
-<i>The problem:</i> Many UH students need help with studying and homework problems, but they may not be able to go to office hours or may not have many people to ask for help.  There exists tools such as Laulima forums, but these methods are only limited to your class.  Sometimes students want to poll others in their entire major, or other classes.
+<i>The problem:</i> Many UH students need help with studying and homework problems, but they may not be able to go to office hours or may not have many people to ask for help.  There exists sites such as Stack Exchange or Stack Overflow, but some students want help from others who have taken the exact same class they are in.  Tools such as Laulima forums, Piazza, etc, are only limited to your class and are only available if the professor chooses to use them.
 </p>
 <p>
-<i>The solution:</i> <b>NAME</b> will be an application that provides an organized forum for professors and students to ask and answer questions.  Users can login and post questions to the relevant major and other users can answer/comment.  The questions will be organized by major/class, but anyone can access all question.  
+<i>The solution:</i> 'Manoa Smart Exchange' will be an application that provides an organized forum for professors and students to ask and answer questions.  Users can login and post questions to the relevant major and other users can answer/comment.  The questions will be organized by major/class, but anyone can access all question.  
 </p>
 
 <h2>Mockup Page Ideas</h2>
