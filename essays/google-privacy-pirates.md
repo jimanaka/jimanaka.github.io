@@ -1,27 +1,22 @@
 ---
 layout: essay
 type: essay
-title: Looking Towards the Future
+title: Google - Privacy Pirates
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-23
+date: 2020-04-24
 labels:
   - Software Engineering
   - Learning
   - ICS314
+  - Ethics
 ---
+# Google: Privacy Pirates
+## What are Ethics?
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="/images/gameboy1.jpg">
-  <img class="ui image" src="/images/gameboy2.jpg">
-</div>
+Ethics are morals and guidelines that govern our thoughts and actions.  It can be influenced by our surrounding environment or our inner thoughts.  In terms of software engineering, ethics can be whether you do something that can harm another person.  This could mean compromising someone's privacy, creating malicious code, etc.  As software engineering is a relatively new field, there have been many instances where individuals have done unethical things.  One such event was when google first launched their StreetView feature, compromising the privacy of many unsuspecting citizens.
 
-
-# Looking Towards the Future
-
-I remember my first experience being curious about software.  It was almost 15 years ago when I got my first gaming console, the Nintendo Gameboy Advanced.  I had no idea what it was or how it worked but from the moment I started playing, I was hooked.  I would spend hours at a time just sitting down to play.  I was very young so apart from the initial wonder, nothing more ever came out of it.  As I grew older, so did my curiosity.  I started to wonder how it was possible to create these advanced devices that were becoming more and more common place.  Flash forward to my senior year in high school, the time to think about what career path I wanted to take was getting closer and closer.  I remembered all the time that I spent on my computer, on the web, and on my phone, and decided that I would really love to create things that others could use and enjoy.  In the end, I started to get interested in software development and cyber security.  Luckily, these are the two topics and studying now!
-
-Overall, I'm relatively new to ICS.  Even though It’s still VERY early in my career I'm still anxious about the future.  Will I have the necessary skills and abilities to get through a stressful interview and get a job?  If I do get a job, will I be able to perform or outperform my peers?  I know it’s early but, it’s things I think about.  Due to this, I want to learn and practice skills that will help me to be confident in my abilities.  Some skills could be, learning to problem solve quickly and efficiently, staying calm in high pressure situations, and of course learning things like different languages/programming techniques.  Though isn’t a very specific list, I believe it’s a good place to start.  To be honest I’m not too sure what practical skills are valued over others.  I guess that’s also something I would like to learn.
-
-A major part of the learning process is experiences.  Being in a situation that really does test your knowledge and abilities is, in my opinion, the best way to learn.  Despite this, I really haven’t been involved with many groups and activities since I started college.  This year will be different though.  For a start, I plan to join Grey Hats to learn more about cyber security and maybe even compete in their competitions.  I also want to join some open-source project or develop something on my own which can be useful to others.  Maybe It will be some program that uses the API’s of the games I play, or maybe a discord bot that my friends use in their channels.  Either would be a challenge for me now, but trying and failing until you get it right is the best way to learn.
-
-
+## All Seeing Eyes
+We've all heard this story before, a big tech company like Google or Facebook farming user data and invading the privacy of millions, but do you know the full extent of their capabilities?  Well in the late 2000's, the world found out what Google was capable of.  In 2007, Google revealed their StreetView technology.  Just like the current StreetView implemented in google maps, it allowed people to have a street-level perspective of the worlds streets and cities.  To gather this monstrous database of pictures, Google drove around neighborhoods and cities manually taking pictures.  While collecting data, Google violated the privacy of ordinary citizens in two ways.  First, they did not blur any personal information or identifying aspects of pictures.  This meant that your actions recorded by the Google StreetView database can be traced back to you.  People ended up being identified leaving adult stores, ditching work, or being in other inappropriate situations.  The second way that google violated the public's privacy is by collecting personal data from unencrypted wifi as the camera trucks drove by.  They collected information such as emails, passwords, and financial/medical records.  And that is not the end of it.  After these actions came into the public eye, Google tried to cover it up by outright denying it.  When that was proven wrong, Google then tried to put the blame on a single low-level worker.  Of course, that was also proven wrong and Google was forced to face the consequences of their actions.
+ 
+## A Silver Lining
+Not only were the actions taken by Google completely illegal, they were also the very definition of unethical.  Unless you are a threat to the others, yourself, or the country, everyone has the right to privacy.  Everyone should have the ability to keep information to themselves without interference by an outside force.  Whether that be your family, the government, or Google.  In the case of the release of non-censored pictures.  Google not only collected personal information without consent, but released it for anyone in the world to see.
