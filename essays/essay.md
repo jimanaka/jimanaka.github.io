@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Google - Privacy Pirates
+title: Essay
 # All dates must be YYYY-MM-DD format!
-date: 2020-04-24
+date: 2020-04-30
 labels:
   - Software Engineering
   - Learning
   - ICS314
-  - Ethics
+  - Design Models
 ---
 # Google: Privacy Pirates
 ## What are Ethics?
