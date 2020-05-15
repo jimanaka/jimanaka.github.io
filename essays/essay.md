@@ -1,24 +1,24 @@
 ---
 layout: essay
 type: essay
-title: "final essay"
+title: "A Strange Semester"
 date: 2020-05-14
 labels:
   - Software Engineering
   - ICS314
 ---
 
-# Title 1
+# A Strange Semester
 Looking back on all the things I have learned from this class this semester; I think that this has been one of the most valuable ICS classes that I’ve had so far.  This class has given me experience and knowledge that I will definitely be using in the real world.  Even with the slight distractions of COVID-19 and our Meteor free trial expiring before the final project due date, I still believe I had an extremely valuable experience.  Even though I have learned from all of the lesson modules, I think the three most important were Configuration Management, Agile Project Management, and Ethics in Software Engineering.
 
-# Configuration Management Title
+# Configuration Management - A Programmers Savior
 One of the most important skills I learned this semester is the idea of Configuration Management.  Configuration management is basically an efficient way for you to keep your project organized and allow multiple people to work on the same project without interfering with each other.  There are many different schemas to achieve configuration management, but the most popular today is Git and Github.  My first reaction to learning about Git and GitHub was, “why did we not learn about this earlier”.  When I first started coding in ICS111, I always thought that there must be a way for multiple people to work on a single project efficiently.  This was mostly because when I was working on my ICS111 project, my partner and I would email copy and pasted code to each other to keep our separate machines updated.  This obviously turned out to be a mess, but it wasn’t until this semester where I learned about configuration management, git, and GitHub.  Configuration management is obviously and extremely important skill for the workplace.  For a real job, unless you are a solo developer, you will always have multiple people working on and reviewing shared files.  For this reason, configuration management is a skill that can be applied to any coding project, not just web development.  I can only wish that I could go back in time and save myself hours of copy pasting in ICS 111.
 
-# Agile Project Management Title
+# Divide and Conquer with Agile Project Management
 Another important skill I learned this semester was Agile Project Management, or more specifically, Issue driven Agile Project Management.  Project Management, much like Configuration Management, is something that allows people to work with others on a software engineering project.  Project management is one of the most basic concepts of software engineering and development because everyone needs to learn how to work with other people to be productive.  Issue Driven Agile Project Management is a project management schema that focuses on parallelism.  To do this, individual “issues” are created that describe a real project issue that must be resolved.  Everyone works on one issue at a time, and when you finish your issue you pick a new one.  Working in this way allows many people to work at the same time while maximizing the groups efficiency.  Much like configuration management, this idea of parallel productivity can be used for way more than just web development.  In fact, this idea is so fundamental that I can see myself using this skill for all kinds of groupwork.  If I’m doing group math homework with a friend, maybe I’ll do the first half and my friend will do second half.  If I’m doing research for a group project, each member could research a different aspect in depth so we all just don’t find the same information.  Overall, Issue Driven Project Management is extremely useful and I’m glad to have learned about it and have gained experience using it.  
 
-# Ethics Title
+# Ethics - A Developers Responsibility
 I think the most important lesson I’ve learned by far this semester was about ethics.  The idea of ethics in software engineering is relatively new and is an extremely hot topic.  With more and more people using the internet for literally everything, the idea that personal information can be compromised by one person’s lack of care is something that we must all think about.  I’ve learned about the many mistakes in the past with large companies doing extremely unethical things with their technology.  By looking at these case studies, we can hopefully learn about what we shouldn’t do and why we shouldn’t do it.  As for me, ethics are extremely important because I’m studying cyber security.  The skills I learn and the knowledge I gain can have a direct negative impact on society and user privacy if used incorrectly.  When researching cyber security, you must be very careful to follow strict ethical guidelines as to not endanger yourself or others.  Before, I never really thought about the effect that an individual (or corporation) could have if they really did not care about being ethical.  But, after seeing the damage done and how people were affected, I have come to think about ethics in a different light.
 
-# Final Thoughts
+# Knowledge for the Future
 I think everyone can agree that Spring 2020 is one of the weirdest semesters of modern times.  With online classes, quarantine, and people around the world dying, it’s comforting to know that we finished this semester safely.  Although not exactly the semester I thought I would have, I still learned a lot of important lessons and gained a lot of important experience.  I will definitely use this knowledge often in the future for the betterment of my work and others.
