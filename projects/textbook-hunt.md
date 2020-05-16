@@ -16,7 +16,7 @@ labels:
 summary: Final project for ICS314 by me and my partners Manalu Nakanishi, Shinya Saito, and Ray Mai.  A platform for UH students to easily buy and sell used textbooks.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/TextbookHuntResized.png">
+<img class="ui medium right floated rounded image" src="../images/listingPage.png">
 
 The final project for my ICS314 class (software development) was to create a dynamic web application based on a service we felt was needed on our won college campus.  In our case, we built a platform for students to buy and sell used textbooks between their peers.  We were given about 6 weeks to complete our task split into 3 milestone checkpoints.  The first milestone was to get our base application up and running.  This meant to create project on GitHub, create the mockup pages, and solidify our plans for the app.  The second milestone was to develop the back end of our website.  This included creating the database collections to store textbooks and profile information, creating links between pages using the meteor router, and developing the baseline functions such as displaying textbooks for sale.  The last milestone was used to finalize our website by further develop its functions.  In this milestone we added more information for textbooks and users, created a filter/search function on our display page, and fixed lots of bugs.  Users on the final version of the app are able to create/sign in to a profile, put books up for sale, show interest in books they want to buy, see their profile information and all books they are selling, edit their profile information, and edit their book information, search for books on sale, and filter the books on sale by major.
 
