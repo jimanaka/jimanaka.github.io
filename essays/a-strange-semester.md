@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Strange Semester"
+title: "A Strange Semester (Software Engineering Techincal Essay)"
 date: 2020-05-14
 labels:
   - Software Engineering
