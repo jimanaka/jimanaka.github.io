@@ -13,7 +13,7 @@ labels:
   - React
   - JavaScript
   - Web Development
-summary: Final project for ICS314 by me and my partners Manalu Nakanishi, Shinya Saito, and Ray Mai.  A primitive Bomberman style game developed using the EZ library.
+summary: Final project for ICS314 by me and my partners Manalu Nakanishi, Shinya Saito, and Ray Mai.  A platform for UH students to easily buy and sell used textbooks.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/TextbookHuntResized.png">
